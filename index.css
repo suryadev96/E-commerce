@@ -1,0 +1,66 @@
+.footer_menu{
+	width:100%;
+	background-color:#444;
+}
+a{
+	color:#fff;
+	text-decoration:none;
+}
+a:hover{
+	color:#0f006f;
+	text-decoration:underline;
+}
+.text-justify {
+  text-align: justify;
+}
+.decor_bg{
+	color:#fff;
+}
+.decor_row{
+	margin-top:80px; 
+	margin-bottom:100px;
+}
+.popup{
+	width:100px;
+	height:100px;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:hidden;
+	display:hidden;
+}
+.decor_modal{
+	color:#
+}
+.decor_anchor{
+	color:#0000ff;
+}
+.decor_anchor:hover{
+	text-decoration:underline;
+	color:#444;
+}
+
+.navbar-default {
+    background-color: #0f006f;
+    border-color: #030033;
+}
+
+.navbar-default .navbar-nav > li > a {
+   color: white; /*Change active text color here*/
+    }
+
+.nav > li > a:hover,
+ .nav > li > a:focus {
+    text-decoration: none;
+    background-color: silver; /*Change rollover cell color here*/
+  }
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: #000;  /*Sets the text hover color on navbar*/
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: white; /*BACKGROUND color for active*/
+background-color: #030033;
+}
+
